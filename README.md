@@ -13,3 +13,9 @@ This puts a price tag on your distillation endeavors. I'll provide some links in
 ⏲️ The generations and evaluation are pushed to Argilla for review, so you can review the pipeline whilst it's running.
 
 
+# Reference
+Prometheus 2 model: https://huggingface.co/prometheus-eval/prometheus-7b-v2.0
+
+
+
+
